@@ -108,7 +108,7 @@ def scrape_all_pages(driver, start_range=0, end_range=132, step=12):
     return all_results
 
 # ✅ Save results to CSV
-def save_results(data, filename="shl_all_assessments.csv"):
+def save_results(data, filename="data/shl_inital.csv"):
     df = pd.DataFrame(data)
     df.to_csv(filename, index=False)
     print(f"\n✅ Saved {len(df)} records to {filename}")

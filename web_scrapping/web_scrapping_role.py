@@ -58,7 +58,7 @@ def extract_details(driver, url):
     }
 
 # === Main Function ===
-def enrich_csv_with_details(input_csv="web_scrapping\shl_all_assessments.csv", output_csv="shl_detailed_assessments.csv"):
+def enrich_csv_with_details(input_csv="web_scrapping/shl_all_assessments.csv", output_csv="data/shl_all_info.csv"):
     df = pd.read_csv(input_csv)
     driver = setup_driver()
     results = []

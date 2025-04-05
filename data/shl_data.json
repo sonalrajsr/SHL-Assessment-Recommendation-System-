@@ -1,0 +1,1055 @@
+[
+    {
+        "Assessment Name": "Claims/Operations Supervisor Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/claimsoperations-supervisor-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "P, S, A, B"
+    },
+    {
+        "Assessment Name": "Contact Center Customer Service + 8.0",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, C, P, S"
+    },
+    {
+        "Assessment Name": "Contact Center Customer Service 8.0",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "S, B, C, P"
+    },
+    {
+        "Assessment Name": "Contact Center Manager - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-manager-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Contact Center Sales & Service + 8.0",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "P, B, C, A, S"
+    },
+    {
+        "Assessment Name": "Contact Center Sales & Service 8.0",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "S, B, C, P"
+    },
+    {
+        "Assessment Name": "Contact Center Team Lead/Coach - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Contact Centre Agent Solution - UK",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/contact-centre-agent-solution-uk/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Customer Service - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Customer Service - Short Form - UK",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form-uk/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Customer Service with Sales - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-with-sales-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Director - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/director-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "District/Regional Manager Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/districtregional-manager-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Entry Level Cashier 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, P, A"
+    },
+    {
+        "Assessment Name": "Entry Level Cashier 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Entry Level Customer Service 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "C, P"
+    },
+    {
+        "Assessment Name": "Entry Level Customer Service 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "C, P"
+    },
+    {
+        "Assessment Name": "Entry Level Customer Service 7.1 (South Africa)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "C, P"
+    },
+    {
+        "Assessment Name": "Entry level Sales 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Entry level Sales 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "P, B, C"
+    },
+    {
+        "Assessment Name": "Entry Level Sales Sift Out 7.1",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "C, P, B"
+    },
+    {
+        "Assessment Name": "Event Sales Manager Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/event-sales-manager-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "S, A, B, P"
+    },
+    {
+        "Assessment Name": "Executive - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/executive-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Financial Professional - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Financial Services Representative Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/financial-services-representative-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Front Desk Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/front-desk-associate-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Gaming Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/gaming-associate-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Gaming Manager Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/gaming-manager-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "S, A, B, K, P"
+    },
+    {
+        "Assessment Name": "General Entry Level - All Industries 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "General Entry Level - All Industries 7.1 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "General Entry Level - All Industries 7.1(Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "General Entry Level – Data Entry 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, K"
+    },
+    {
+        "Assessment Name": "Graduate + 8.0 Job Focused Assessment",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Graduate 7.1 Job Focused Assessment",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/graduate-7-1-job-focused-assessment/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C"
+    },
+    {
+        "Assessment Name": "Graduate 8.0 Job Focused Assessment",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "P, B"
+    },
+    {
+        "Assessment Name": "Guest Service Team 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/guest-service-team-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Guest Services Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/guest-services-associate-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Healthcare Aide 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-aide-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Healthcare Call Center Agent Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-call-center-agent-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Healthcare Service Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-service-associate-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Healthcare Support Specialist Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-support-specialist-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Home Health Aide Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/home-health-aide-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Hospitality Manager Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/hospitality-manager-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, K, P"
+    },
+    {
+        "Assessment Name": "Host Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/host-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, P"
+    },
+    {
+        "Assessment Name": "Industrial - Entry Level 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Industrial - Entry Level 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Industrial - Entry Level 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Industrial - Professional and Skilled 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B"
+    },
+    {
+        "Assessment Name": "Industrial - Semi-skilled 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Industrial - Semi-skilled 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Industrial Professional and Skilled 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B"
+    },
+    {
+        "Assessment Name": "Industrial Professional and Skilled 7.1 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B"
+    },
+    {
+        "Assessment Name": "Installation and Repair Technician Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/installation-and-repair-technician-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Insurance Account Manager Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-account-manager-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Insurance Administrative Assistant Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-administrative-assistant-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Insurance Agent Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-agent-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Insurance Director Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-director-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Insurance Sales Manager Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/insurance-sales-manager-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Manager - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, K, P, S"
+    },
+    {
+        "Assessment Name": "Manager + 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-0-solution-3955/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, C"
+    },
+    {
+        "Assessment Name": "Manager + 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-solution-4242/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Manager + 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-%28international%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Manager 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C"
+    },
+    {
+        "Assessment Name": "Manager 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Manager 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Manager 8.0 JFA",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, K, P"
+    },
+    {
+        "Assessment Name": "Manager 8.0+ JFA",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, K, P"
+    },
+    {
+        "Assessment Name": "Manufacturing Production Team Member",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manufacturing-production-team-member/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B"
+    },
+    {
+        "Assessment Name": "Manufacturing Skilled Maintenance Worker",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manufacturing-skilled-maintenance-worker/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B"
+    },
+    {
+        "Assessment Name": "Network Engineer/Analyst Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/network-engineeranalyst-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "P, S, K, B, A"
+    },
+    {
+        "Assessment Name": "Nurse Leader Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/nurse-leader-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "S, A, B, P"
+    },
+    {
+        "Assessment Name": "Nurse Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/nurse-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "P, A, B"
+    },
+    {
+        "Assessment Name": "Nursing Assistant Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/nursing-assistant-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Personal Banker - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/personal-banker-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, K, P, S"
+    },
+    {
+        "Assessment Name": "Phone Banker - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/phone-banker-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Prep/Line Cook Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/prepline-cook-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Professional + 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, C"
+    },
+    {
+        "Assessment Name": "Professional + 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Professional + 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Professional 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C"
+    },
+    {
+        "Assessment Name": "Professional 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution-4247/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "C, B"
+    },
+    {
+        "Assessment Name": "Professional 8.0 JFA",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/professional-8-0-jfa/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, K, P"
+    },
+    {
+        "Assessment Name": "Professional/Individual Contributor - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/professionalindividual-contributor-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Project Manager - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/project-manager-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P, S"
+    },
+    {
+        "Assessment Name": "Sales Professional Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-professional-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Sales Representative Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Sales Supervisor Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-supervisor-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Sales Support Specialist Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Senior Insurance Agent Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/senior-insurance-agent-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Senior Sales Professional Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/senior-sales-professional-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Server Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/server-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, A, P"
+    },
+    {
+        "Assessment Name": "Service Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/service-associate-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Service Supervisor Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/service-supervisor-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Stock Clerk Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/stock-clerk-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Store Manager 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C"
+    },
+    {
+        "Assessment Name": "Store Manager 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C"
+    },
+    {
+        "Assessment Name": "Store Manager 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-1-%28international%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "C, B"
+    },
+    {
+        "Assessment Name": "Store Manager Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Supervisor - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "S"
+    },
+    {
+        "Assessment Name": "Supervisor 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C"
+    },
+    {
+        "Assessment Name": "Supervisor 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Supervisor 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-1-%28international%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "P, C, B"
+    },
+    {
+        "Assessment Name": "Support Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/support-associate-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Support Supervisor Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/support-supervisor-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, P, S, B"
+    },
+    {
+        "Assessment Name": "Technical Sales Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Technician/Technologist Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/techniciantechnologist-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Technology Professional 8.0 Job Focused Assessment",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "C, P"
+    },
+    {
+        "Assessment Name": "Telenurse Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/telenurse-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, P"
+    },
+    {
+        "Assessment Name": "Teller 7.0",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/teller-7-0/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, K, P, S"
+    },
+    {
+        "Assessment Name": "Teller with Sales - Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/teller-with-sales-short-form/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "A, B, K, P, S"
+    },
+    {
+        "Assessment Name": "Transcriptionist Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/transcriptionist-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "A, B, K, P"
+    },
+    {
+        "Assessment Name": "Workplace Safety - Individual 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Workplace Safety - Individual 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Workplace Safety - Team 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B"
+    },
+    {
+        "Assessment Name": "Workplace Safety - Team 7.1 (Americas)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Workplace Safety - Team 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Test Type": "B, C, P"
+    },
+    {
+        "Assessment Name": "Workplace Safety Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-solution/",
+        "Description": "Pre-packaged Job Solution",
+        "Duration": "",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Test Type": "B, P"
+    }
+]
