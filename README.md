@@ -179,6 +179,6 @@ Feel free to reach out if you have any questions or want to collaborate!
 
 **Author**: [Sonal Raj]  
 **Email**: sonalraj0852@gmail.com  
-**LinkedIn**: [Your Profile](https://linkedin.com/in/sonalrajsr)
+**LinkedIn**: [Sonal Raj](https://linkedin.com/in/sonalrajsr)
 
 ---
