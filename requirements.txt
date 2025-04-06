@@ -19,7 +19,7 @@ fsspec
 gitdb
 GitPython
 h11
-huggingface-hub
+huggingface_hub==0.11.1
 idna
 ipykernel
 ipython
