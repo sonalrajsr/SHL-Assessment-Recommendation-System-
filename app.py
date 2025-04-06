@@ -22,15 +22,14 @@ remote = [item["Remote Testing"] for item in data]
 adaptive = [item["Adaptive/IRT"] for item in data]
 test_types = [item["Test Type"] for item in data]
 
-# Streamlit UI
 st.title("🧠 SHL Assessment Recommender")
 
 st.write("Enter a job role or description OR upload a .txt file with the job description.")
 
-# Option 1: Text input
+# Text input
 text_input = st.text_area("✏️ Enter Job Prompt:", placeholder="e.g., Mid-level software developer with leadership qualities")
 
-# Option 2: File upload
+# File upload
 uploaded_file = st.file_uploader("📄 Or upload a .txt file", type=["txt"])
 file_text = ""
 if uploaded_file is not None:
