@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Step 1: Load your Excel file
-excel_path = "web_scrapping/shl_all_assessments.csv"  # Replace with your filename
+excel_path = "./data/shl_cleaned_data.csv"  # Replace with your filename
 df = pd.read_csv(excel_path)
 
 # Step 2: Handle missing values
