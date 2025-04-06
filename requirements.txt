@@ -66,7 +66,9 @@ safetensors
 scikit-learn
 scipy
 selenium
-sentence-transformers
+torch==2.1.2
+transformers==4.36.2
+sentence-transformers==2.2.2
 setuptools
 six
 smmap
@@ -80,11 +82,9 @@ tenacity
 threadpoolctl
 tokenizers
 toml
-torch
 tornado
 tqdm
 traitlets
-transformers
 trio
 trio-websocket
 typing_extensions
