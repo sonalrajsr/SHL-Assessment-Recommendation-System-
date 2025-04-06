@@ -66,7 +66,7 @@ def scrape_all_table_tests(driver, type_value, label):
         start += 12
     return all_results
 
-def save_results(data, filename="../data/shl_combined_results.csv"):
+def save_results(data, filename="./data/shl_combined_results.csv"):
     df = pd.DataFrame(data)
     df.to_csv(filename, index=False)
     print(f"\n✅ Saved {len(df)} total records to {filename}")
@@ -75,8 +75,8 @@ if __name__ == "__main__":
     driver = setup_driver()
     try:
         # Scrape both test categories
-        individual_results = scrape_all_table_tests(driver, type_value=1, label="Individual Test Solutions")
         prepackaged_results = scrape_all_table_tests(driver, type_value=2, label="Pre-packaged Job Solutions")
+        individual_results = scrape_all_table_tests(driver, type_value=1, label="Individual Test Solutions")
 
         # Combine and save
         all_data = prepackaged_results + individual_results
