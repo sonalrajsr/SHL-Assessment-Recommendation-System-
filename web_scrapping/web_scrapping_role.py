@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
-# === Setup Headless Chrome ===
+#  Setup Headless Chrome 
 def setup_driver():
     options = Options()
     options.add_argument("--headless")
@@ -13,7 +13,7 @@ def setup_driver():
     options.add_argument("--no-sandbox")
     return webdriver.Chrome(service=Service(), options=options)
 
-# === Extract info from individual page ===
+#  Extract info from individual page 
 def extract_details(driver, url):
     driver.get(url)
     time.sleep(3)  # Let page load
@@ -57,7 +57,7 @@ def extract_details(driver, url):
         "Remote Testing": remote,
     }
 
-# === Main Function ===
+#  Main Function 
 def enrich_csv_with_details(input_csv="./data/shl_combined_results.csv", output_csv="./data/shl_all_info.csv"):
     df = pd.read_csv(input_csv)
     driver = setup_driver()
@@ -79,6 +79,5 @@ def enrich_csv_with_details(input_csv="./data/shl_combined_results.csv", output_
     pd.DataFrame(results).to_csv(output_csv, index=False)
     print(f"\n✅ Saved enriched dataset to: {output_csv}")
 
-# === Run it ===
 if __name__ == "__main__":
     enrich_csv_with_details()

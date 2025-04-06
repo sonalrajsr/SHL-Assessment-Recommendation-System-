@@ -1,16 +1,16 @@
 import pandas as pd
 import json
 
-# Step 1: Load your Excel file
-excel_path = "./data/shl_cleaned_data.csv"  # Replace with your filename
+# Load your Excel file
+excel_path = "./data/shl_cleaned_data.csv"
 df = pd.read_csv(excel_path)
 
-# Step 2: Handle missing values
+# Handle missing values
 df.fillna('', inplace=True)
 
-# Step 3: Convert the entire DataFrame to list of dicts (all columns included)
+# Convert the entire DataFrame to list of dicts
 records = df.to_dict(orient='records')
 
-# Step 4: Save to JSON
+# Save to JSON
 with open("data/shl_data.json", "w", encoding='utf-8') as f:
     json.dump(records, f, indent=4, ensure_ascii=False)
