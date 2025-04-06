@@ -17,27 +17,37 @@ Build a dashboard where HR professionals can input a job prompt (or upload a job
 ---
 
 ## 📦 Project Structure
-
 ```
 SHL-Test-Recommendation/
 │
 ├── data/
-│   ├── raw_tests.csv               # Initial scraped data
-│   ├── detailed_tests.json         # Cleaned and structured data with full descriptions
-│   ├── embeddings.npy              # Precomputed vector embeddings for descriptions
+│   ├── shl_all_info.csv               # Raw scraped data
+│   ├── shl_cleaned_data.csv           # Cleaned and structured data
+│   ├── shl_combined_results.csv       # Final merged results
+│   ├── shl_data.json                  # Raw data in JSON format
+│   ├── shl_data_with_embeddings.json  # JSON with embeddings
 │
-├── app/
-│   └── streamlit_app.py            # Streamlit front-end application
+├── my_local_model/                    # (Optional) Folder to store local ML models
+│
+├── myenv/                             # Virtual environment (excluded from version control)
 │
 ├── notebooks/
-│   ├── scrape_tests.ipynb          # Scraping code for SHL catalog
-│   ├── preprocess_descriptions.ipynb  # Text preprocessing and cleaning
-│   └── compute_embeddings.ipynb    # Embed descriptions using Sentence Transformers
+│   └── data_cleaning.ipynb            # Notebook for cleaning and preprocessing data
 │
-├── README.md
-└── requirements.txt
-```
+├── utility/
+│   ├── convert_json.py                # Convert CSV to JSON or vice versa
+│   ├── embeddings_generator.py        # Generates and stores embeddings
+│
+├── web_scrapping/
+│   ├── web_scrapping.py               # Scraper for individual tests
+│   ├── web_scrapping_role.py          # Scraper for role-based (pre-packaged) tests
+│
+├── app.py                             # Main application entry point
+├── test.py                            # For testing purposes (functions/modules)
+├── README.md                          # Project documentation
+└── requirements.txt                   # Python dependencies
 
+```
 ---
 
 ## 🛠️ Tech Stack
