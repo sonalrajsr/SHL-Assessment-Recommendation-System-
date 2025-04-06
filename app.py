@@ -5,7 +5,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer, util
 
 # Load model
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("./my_local_model")
 
 # Load data
 with open("data/shl_data_with_embeddings.json", "r", encoding="utf-8") as f:
