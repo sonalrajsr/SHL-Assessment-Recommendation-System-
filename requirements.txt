@@ -55,8 +55,7 @@ pydeck
 Pygments
 PySocks
 python-dateutil
-pytz
-pywin32
+pytz  # ← don't pin version to avoid compatibility issues
 PyYAML
 pyzmq
 referencing
